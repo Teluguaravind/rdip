@@ -1,0 +1,11 @@
+.h1{
+	font-size:25px;
+	color:green;
+    text-align: center;
+    text-transform: uppercase;
+}
+#palindrome{
+	text-align: center;
+	color:none;
+	font-size:25px; 
+}
